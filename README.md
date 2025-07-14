@@ -28,7 +28,7 @@ Here are some of the technologies I'm comfortable working with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,materialui,redux,vite,astro,nodejs,express,laravel,php,mysql,postgres,redis,docker,git,github,postman,npm,pnpm&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,materialui,redux,vite,astro,nodejs,express,laravel,php,mysql,postgres,redis,docker,git,github,postman,npm,pnpm&perline=12" />
   </a>
 </p>
 
